@@ -1,4 +1,6 @@
-## Hi there 👋
+### 🎓 University projects
+- **[Lisok-Poznaje-Swiat](https://github.com/SzyneQ23/Gra-Unity---Lisok-Poznaje-Swiat-)** - Unity 2D platformer game built on top of a ready-made asset pack. Ranked in the top 10% of entries in a game development competition.
+- **[Snake-Slitherio-PWiR](https://github.com/SzyneQ23/Projekt-Snake-Slitherio-PWiR)** - A multiplayer Snake game built with the Godot engine, powered by a custom-built server written in C.
 
 <!--
 **Maciek4134/Maciek4134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
